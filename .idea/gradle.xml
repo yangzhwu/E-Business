@@ -8,7 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/example" />
+            <option value="$PROJECT_DIR$/latte_annotations" />
+            <option value="$PROJECT_DIR$/latte_compiler" />
+            <option value="$PROJECT_DIR$/latte_core" />
+            <option value="$PROJECT_DIR$/latte_ec" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
